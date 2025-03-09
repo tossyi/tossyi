@@ -1,4 +1,10 @@
 ## Hi there 👋
+I'm Toshihiko Sakai.
+
+[![Likes](https://badgen.org/img/zenn/tossy21/likes?style=plastic)](https://zenn.dev/tossy21)
+
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=python,ruby,rails,aws,docker,elasticsearch,gcp,github,kubernetes,perl,)](https://skillicons.dev)
 
 <!--
 **tossyi/tossyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
